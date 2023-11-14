@@ -354,3 +354,25 @@ All of the templates have only the root [flake](./flake.nix) as a flake input. T
 [yarn]: https://yarnpkg.com
 [zig]: https://ziglang.org
 
+## GitPod browser environment
+
+You can run these Nix flakes examples in your browser using [GitPod]:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ZeroDeth/dev-templates)
+
+The GitPod environment has [Nix] installed and [flakes] enabled.
+
+[bazel]: https://bazel.build
+[flakes]: https://nixos.wiki/wiki/Flakes
+[gitpod]: https://gitpod.io
+[gleam]: https://gleam.run
+[go]: https://golang.org
+[java]: https://docs.oracle.com/java
+[nix]: https://nixos.org
+[node]: https://nodejs.org
+[php]: https://www.php.net
+[phx]: https://phoenixframework.org
+[proto]: https://developers.google.com/protocol-buffers
+[python]: https://python.org
+[ror]: https://rubyonrails.org
+[rust]: https://rust-lang.org
